@@ -1,31 +1,31 @@
 # pizza
-[+] Create directory structure
+[ ] Create directory structure
 
-[+] Create a NPM project and install all dependancies
+[ ] Create a NPM project and install all dependancies
     - Dependancies
         - express
         - ejs express-ejs-layouts
     - Dev dependancies
         - nodemon
 
-[+] Create Express server - Create a server.js file
+[ ] Create Express server - Create a server.js file
 
-[+] Git setup and first commit
+[ ] Git setup and first commit
 
-[+] Install Laravel Mix
+[ ] Install Laravel Mix
     - setup js and scss
 
-[+] Install tailwind css
+[ ] Install tailwind css
 
-[+] Create Home page using Html and Css
+[ ] Create Home page using Html and Css
 
-[+] Create Cart page
+[ ] Create Cart page
     - order summary section
     - empty cart section
 
-[+] - move routes to routes files
+[ ] - move routes to routes files
 
-[+] - Create dedicated controllers
+[ ] - Create dedicated controllers
 
 [ ] Add to cart functionality
     [ ] Fetch all pizzas from db and show on home page
